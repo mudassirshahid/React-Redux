@@ -67,4 +67,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- COMMANDS  -->
+
+npm i redux react-redux
+
+
+<!-- ACTION  WHAT TO DO -->
+CREATE FOLDER IN SRC NAME LIKE action and make file index.js
+
+<!-- REDUCER HOW TO DO  -->
+CREATE FOLDER IN SRC NAME LIKE reducer and make file index.js
+
+<!-- STORE   ADD COMPLETE STATE OF APPLICATION --> 
+Create file store.js in root folder  
+
+<!-- REDUCER IS YOUR PURE FUNCTION AND REDUCER IS ONE ROOT USER -->
+
+
+<!-- INSTALL EXTENSION REDUX DEV TOOL  -->
+
+<!-- PASTE THIS CODE IN YOUR STORE.JS FILE  -->
+
+window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+
+
+<!-- GITHUB LINK ABOVE CODE  -->
+
+https://github.com/zalmoxisus/redux-devtools-extension
